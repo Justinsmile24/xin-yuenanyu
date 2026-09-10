@@ -1,0 +1,54 @@
+# 词性分类 / Parts of Speech (#24 - Đen)
+
+## 名词（Danh từ）
+- công việc : 工作
+- nhân viên : 员工
+- tính cách : 性格
+- thẻ học từ vựng / flashcard : 单词卡
+- máy in / printer : 打印机
+- giấy cứng : 硬纸 / 卡纸
+- đồ ăn : 食物
+- thời tiết : 天气
+- sức khỏe : 健康
+- tuần : 周
+- tháng : 月
+- năm : 年
+- tên : 名字
+- đồ : 东西 / 物品
+- xe máy : 摩托车
+- phí ship : 运费
+- link : 链接
+
+## 形容词（Tính từ）
+- nhiều : 多
+- tốt : 好
+- dễ : 容易
+- dễ chịu : 好相处 / 舒服
+- mệt : 累
+- rẻ : 便宜
+- nóng : 热
+- bận : 忙
+- nhanh : 快
+- chậm : 慢
+- khó : 难
+- mới : 新
+- đen : 黑色的
+- mắc cười : 好笑的
+- vui vẻ : 开心的
+- bình thường : 普通的 / 平常的
+
+## 副词（Trạng từ）
+- thường : 经常
+- rất : 很
+- hơi : 有点（南越常用）
+- cũng : 也
+- không : 不
+- luôn : 一直 / 总是
+- đặc biệt : 特别
+- chủ yếu : 主要
+- khoảng : 大约
+- thật ra : 其实
+- cuối cùng : 最后
+- gần đây : 最近
+- bây giờ : 现在
+- hơn : 更（比较级）
