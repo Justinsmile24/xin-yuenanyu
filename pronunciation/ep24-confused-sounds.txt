@@ -1,0 +1,36 @@
+# 南越口音易混淆音 / Easily Confused Sounds (Southern Vietnamese)
+
+## 1. 最容易混淆的音
+
+| 容易混淆的音 | 例子 | 说明 |
+|--------------|------|------|
+| n / ng（韵尾） | mình vs miềng | 南越人发 -n 和 -ng 经常分不清 |
+| t / c（韵尾） | một vs mộc, tốt vs tộc | 南越常把 -t 发成接近 -c 的音 |
+| s / x | sẽ vs xẽ, sai vs xai | 南越几乎都发成 /s/ |
+| ch / tr | cho vs tro, chậm vs trậm | 南越很多人发得比较接近 |
+| v / d / gi / r | về, dễ, giấy, rẻ | 这几个音经常发得软、模糊 |
+| d / gi | dễ（容易）vs giấy（纸） | 南越发音非常接近 |
+
+## 2. 文稿中容易听错的词
+
+| 正确词 | 容易听成 | 原因 |
+|--------|----------|------|
+| mình | miềng / mừng | 韵尾 n/ng 混淆 + 声调 |
+| thì | thỳ / thi | 声调平、短 |
+| bạn | bảng / bạng | 韵尾 n/ng |
+| cái | cay | 元音开口度 |
+| Đen | đen / đêng | 专有名词声调 |
+| làm | lạm / làmg | 韵尾 |
+| thường | thương / thưởng | 声调 + 韵母 |
+| nhiều | nhiêu | 元音长短 |
+| rẻ | dễ | r 和 d/gi 接近 |
+| dễ chịu | dề chịu | 声调较平 |
+
+## 3. 南越口音特别容易踩的坑
+
+1. 声调变平：很多词的声调听起来没有北方那么陡
+2. 元音开口更大：a、ă、â 有时听起来更开
+3. 尾音弱化：很多词尾的 -n、-ng、-t、-c 发得比较轻
+4. 连读吞音：của mình、cho nên、rất là 经常连在一起
+
+建议练习：重点对比听 mình-miềng、bạn-bảng、tốt-tộc、rẻ-dễ
