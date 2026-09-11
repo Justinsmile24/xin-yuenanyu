@@ -1,0 +1,39 @@
+#34 - Vietnamese words with no exact meaning - VTM2
+
+转写说明：使用 faster-whisper tiny 模型自动转写，南越口音 + 口语导致较多误差，特别是语气词部分。仅供参考，建议对照原音频修正。
+
+主题：那些没有确切对应中文意思的越南语语气词 / 口语词（如 nhé、hả 等）
+
+---
+
+Chào các bạn, chào mừng các bạn đến với Podcast tiếng Việt miền Nam Vitamese với Tú Mỹ.
+Chào các bạn, hôm nay hy vọng là các bạn vẫn khỏe và nếu như các bạn đang ở Việt Nam, thì mình chúc cho các bạn nghỉ lễ Quốc khánh thật vui vẻ ha?
+
+Là Quốc khánh hoặc là ngày 2 tháng 9, là Vietnam National Day, thì cái này là đại lễ mà người Việt Nam rất là lớn.
+Và như các bạn biết, mình có chia sẻ ở kênh A Sip of Vietnamese, thì mình có nói là từ ngày 30 tháng 8 đến ngày hết ngày 2 tháng 9.
+Là người Việt Nam sẽ được nghỉ lễ 5 ngày. Cho nên là bây giờ ở Sài Gòn, khi mà đi ra ngoài thì rất là ít xe, rất là thoải mái.
+Mình rất là thích Sài Gòn nhưng mà có một cái vấn đề là nhiều xe quá, nhiều người và nhiều xe, cho nên là bình thường thì mình cảm thấy là nó hơi ồn ào.
+Nhưng mà vào những cái ngày lễ nhiều như vậy thì phần lớn là người ta sẽ đi du lịch hoặc là về quê.
+Mình nghĩ là bây giờ thì chắc ở Sài Gòn, ở Vũng Tàu hoặc là đại lễ rất là đông người, tại vì người ta muốn đi biển, Vũng Tàu để tắm.
+Nó rất là gần Sài Gòn và ở miền Nam thì người ta cũng rất là thích đi biển.
+Nhưng mà có một cái rất là tiện lợi ở Việt Nam là mặc dù là cái ngày lễ rất là lớn, nhưng mà các quán ăn hoặc là quán cà phê thì người ta vẫn mở cửa.
+Người ta chỉ nghỉ vào ngày Tết Âm lịch thôi.
+Bình thường là người ta sẽ vẫn bán, vẫn mở cửa bình thường.
+Cho nên bây giờ thì Sài Gòn rất là ít xe và đi chơi rất là thoải mái.
+Năm nay thì mình không có đi đâu. Mình chỉ ở Sài Gòn, đi ăn, đi uống trà sữa.
+Và ở nhà, cà phê, rảnh rảnh thì làm podcast thôi.
+Theo kinh nghiệm của mình thì mình nghĩ là không nên đi du lịch vào những cái ngày lễ ở Việt Nam, tại vì nó rất là đông.
+Nếu như mà bây giờ đi chơi ở Vũng Tàu thì rất là đông.
+
+Bây giờ mình sẽ đi vào chủ đề hôm nay.
+Chủ đề hôm nay mình muốn nói là những chữ không có ý nghĩa trong tiếng Việt mà mình rất thường dùng.
+Trước khi đi vào chủ đề, thì các bạn đừng quên nhấn nút follow và nếu như các bạn cảm thấy VTM hữu ích cho các bạn, thì hy vọng là các bạn sẽ đăng ký Premium Podcast. Cảm ơn các bạn rất là nhiều.
+
+Khi các bạn nghe mình nói thì chắc chắn là các bạn rất là thường nghe mình nói là “nhé”, đúng không?
+Thì lúc trước có một số khán giả thắc mắc. Đối với những khán giả mà họ là người Tây mà gia đình không phải là người Việt Nam thì không quen lắm với những cái này.
+Và họ hỏi là tại sao mình thường nói “cảm ơn nhé”, không phải là “cảm ơn”, mà là “cảm ơn nhé”.
+Hoặc là “hẹn gặp lại các bạn nhé”, “hả nhé”… thì họ không hiểu là nó có ý nghĩa gì.
+Và mình thấy là cái thắc mắc, các câu hỏi này rất là hay thì hôm nay mình muốn chia sẻ về chủ đề này.
+
+Cái chữ “nhé” thường dùng ở miền Nam, còn ở miền Bắc thì các bạn sẽ thường nghe người ta dùng là “nhé”…
+（后续部分因模型幻觉较严重，建议人工听音频补充完整关于语气词 nhé / hả / ạ 等的解释）
