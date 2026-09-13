@@ -1,16 +1,79 @@
 #21 - Ngày của Phở - Vitamese Podcast
 
-转写说明：
-音频已成功下载（约 9.3 MB）。
-当前环境暂时无法安装语音识别模型（网络问题），因此先保存标题和主题信息。
-建议后续用更好模型重新转写。
+转写说明：使用 faster-whisper tiny 模型，南越口音 + 主播感冒导致部分识别误差，仅供参考。
 
-主题：Ngày của Phở（越南河粉日 / Day of Pho）
+---
 
-已知信息：
-- 这是关于越南「Phở 日」的讨论
-- 属于 Vitamese Podcast 系列
+Chào các bạn, chào mừng các bạn đến với podcast tiếng Việt miền Nam với Tú Mỹ.
+Chào các bạn, hôm nay các bạn có khỏe không?
+Chắc là các bạn nghe giọng của mình là nó hơi kỳ một chút nhé.
+Hôm nay mình đang bị cảm, mình bị cảm khoảng 2-3 ngày rồi.
+Hôm nay các bạn thông cảm.
+Hôm nay hơi nghẹt mũi, xì mũi với cả ho nhẹ.
+Cho nên là khoảng 1 tuần trước thời tiết ở Sài Gòn hôm có tốt lắm.
+Trời thì không có nắng, cho nên là mình và cũng một số người bị cảm và bị ho nhiều.
+Mình hay cảm thấy rất là khoái khi mà có nhiều nắng và bầu trời trong xanh.
+Thì mình rất là thích. Nhưng mà nếu như mấy ngày không có nắng thì mình sẽ cảm thấy hơi mệt, không có vui.
+Nhưng mà may mắn là hôm nay buổi sáng thì có rất là nhiều nắng và trời cũng trong xanh.
+Cho nên là mình cảm thấy khá hơn một chút. Mặc dù là vẫn đang bị cảm.
+Thì mình sẽ quay lại với chủ đề hôm nay.
+Chủ đề hôm nay mình muốn nói đó là Ngày của Phở.
+Trước khi đi vào chủ đề thì các bạn đừng quên nhấn nút follow để không bỏ lỡ bất kỳ tập nào.
+Nếu như các bạn yêu thích VTM1 thì hy vọng là các bạn sẽ đăng ký VTM2.
+Cảm ơn các bạn rất là nhiều.
 
-待补充：完整转写 + 高频词 + 词性分类
+Bây giờ mình sẽ quay lại với chủ đề hôm nay. Đó là Ngày của Phở, khoảng ngày 12 tháng 12.
+Mình có đi ra Bến Thành một lần.
+Thì mình thức dậy sớm khoảng 6 giờ rười, sau đó thì đi xe buýt ra Bến Thành.
+Hôm đó là thời tiết cũng rất là tốt.
+Cho nên là mình đi sớm. Mặc dù là bình thường mình cũng không có thích dậy quá sớm để mà đi ra ngoài.
+Buổi sáng thì mình thích chậm chậm ở nhà ăn sáng, uống cà phê từ từ, nhưng mà đôi khi thì mình cũng muốn thay đổi một chút.
 
-音频本地文件：#21 - Ngày của Phở - Vitamese Podcast.mp3
+Từ nhà của mình mà đi ra Bến Thành ở trung tâm thì khoảng 1 tiếng bằng xe buýt.
+Khi mà đến Bến Thành thì mình cảm thấy rất là đẹp luôn.
+Tại vì hôm đó mình đi là cuối tuần, cho nên là không có nhiều người đi làm.
+Nhưng mà mặc dù là lúc mình đến đó khoảng 8 giờ, mình thấy nhà hát lớn (Opera House) thì có những người biểu diễn.
+Chắc là nhưng mà khác cũng là hay, Hòa nhạc, nhạc viện.
+Và cũng rất nhiều người đứng xung quanh để nghe để xem.
+Và mình cảm thấy rất là vui và không còn buồn ngủ nữa.
+
+Và những cái người nghệ sĩ, nghệ sĩ đường phố, những người nghệ sĩ đó thì thật sự là mình thấy họ rất hay, giống như các show về đó.
+Và bây giờ ở trung tâm Bến Thành thì người ta thích trang trí, bây giờ nhìn rất là đẹp.
+Và có rất là nhiều cái event, cái lễ hội để các bạn tham gia.
+Hôm đó mình thấy là có check-in để lên Facebook hay là Instagram thì các bạn sẽ được nhận một cái quà từ cái chỗ đó.
+Nhưng mà mình hay không có làm. Tại vì thấy là cũng hơi nhiều người ở đó.
+Mình thì không thích những cái chỗ nhiều người. Mình sẽ hơi ngại, là mình không có check-in.
+
+Sau đó thì mình thấy có một cái sự kiện đó là Ngày của Phở.
+Ngày của Phở là ngày 12 tháng 12.
+Và nhiều người các bạn biết thì phở ở Việt Nam rất là nổi tiếng.
+Phở bò, phở gà.
+Phở bò thì là truyền thống.
+Thường thì ở miền Bắc là ăn phở bò nhiều.
+Còn ở miền Nam thì mình thấy là có vẻ như là nhiều người thích phở gà nhiều hơn.
+Mình thì cũng thích phở gà, thường là mình ăn phở gà.
+Nhưng mà mình nghĩ là có lẽ là mình là người miền Nam thì mình cảm thấy là bánh mì và cơm tấm thì ngon hơn.
+Nhưng mà không có Ngày của Cơm Tấm mà chỉ có Ngày của Phở thôi.
+Tại vì phở là nổi tiếng nhất.
+
+Thì ở bên trong là có rất nhiều cái tiệm phở nổi tiếng.
+Ví dụ như Phở Hòa, Phở Thìn, đó là những cái brand, cái tiệm phở rất là nổi tiếng.
+Nhưng mà mình thì chưa có từng ăn những cái lịch sử cái phở đó.
+Tại vì mình thấy là cái đó hình như chủ yếu là những người bạn nước ngoài của mình thì họ ăn và nói là nổi tiếng và ngon.
+Nhưng mà mình hình thường ăn những cái tiệm phở nhỏ nhỏ thôi.
+Thường thì mình ăn khoảng 50 nghìn.
+Còn cái những cái thương hiệu nổi tiếng thì nó sẽ hơi mắc một chút.
+Tại vì giờ là cái tiền hơi cái chỗ nó mắc.
+
+Thì mình nhớ là bạn mình nói là Phở Hòa và Phở Thìn đó.
+Phở Hòa tầm mỗi ngày một tô, rẻ nhất là tầm mỗi ngày.
+Tại vì mình thấy là những cái tiệm phở mà mình đi ăn thì cũng rất là ngon rồi, cho nên là không cần ngon hơn nữa.
+
+Thì mình sẽ giới thiệu cho các bạn một số cái tiệm phở ngon.
+Mình sẽ để ở trong cái transcript thì nếu như các bạn cần tham khảo.
+
+Không biết là vào khoảng 2 tuần trước những bạn nào ở Việt Nam có đi cái Ngày của Phở và có ăn phở ở đó không?
+Thì hãy chia sẻ với mình biết nhé.
+
+Cảm ơn các bạn rất là nhiều vì đã quan tâm lắng nghe.
+Hẹn gặp lại các bạn trong những tập tiếp theo.
